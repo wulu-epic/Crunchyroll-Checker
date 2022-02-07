@@ -19,4 +19,5 @@ FEATURES:
    •Multi threading. Makes everything much faster.
    •Proxy support. This makes it so you are not using your own IP.
    •Uses android api. This will most likely never be patched!
+   •Includes capture. This seperates the free accounts and the premium accounts!
 ```
